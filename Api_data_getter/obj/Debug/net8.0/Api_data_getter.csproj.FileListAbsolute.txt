@@ -1,0 +1,14 @@
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\Api_data_getter\bin\Debug\net8.0\Api_data_getter.exe
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\Api_data_getter\bin\Debug\net8.0\Api_data_getter.deps.json
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\Api_data_getter\bin\Debug\net8.0\Api_data_getter.runtimeconfig.json
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\Api_data_getter\bin\Debug\net8.0\Api_data_getter.dll
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\Api_data_getter\bin\Debug\net8.0\Api_data_getter.pdb
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\Api_data_getter\obj\Debug\net8.0\Api_data_getter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\Api_data_getter\obj\Debug\net8.0\Api_data_getter.AssemblyInfoInputs.cache
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\Api_data_getter\obj\Debug\net8.0\Api_data_getter.AssemblyInfo.cs
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\Api_data_getter\obj\Debug\net8.0\Api_data_getter.csproj.CoreCompileInputs.cache
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\Api_data_getter\obj\Debug\net8.0\Api_data_getter.dll
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\Api_data_getter\obj\Debug\net8.0\refint\Api_data_getter.dll
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\Api_data_getter\obj\Debug\net8.0\Api_data_getter.pdb
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\Api_data_getter\obj\Debug\net8.0\Api_data_getter.genruntimeconfig.cache
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\Api_data_getter\obj\Debug\net8.0\ref\Api_data_getter.dll

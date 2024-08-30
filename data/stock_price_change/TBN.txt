@@ -1,0 +1,80 @@
+{
+  "symbol": "TBN",
+  "historical": [
+    {
+      "date": "2024-07-02",
+      "open": 23.51,
+      "high": 24,
+      "low": 22.73,
+      "close": 23.68,
+      "adjClose": 23.68,
+      "volume": 112907,
+      "unadjustedVolume": 112907,
+      "change": 0.17,
+      "changePercent": 0.7231,
+      "vwap": 23.48,
+      "label": "July 02, 24",
+      "changeOverTime": 0.007231
+    },
+    {
+      "date": "2024-07-01",
+      "open": 22.5,
+      "high": 25.99,
+      "low": 22.5,
+      "close": 24.25,
+      "adjClose": 24.25,
+      "volume": 147638,
+      "unadjustedVolume": 147638,
+      "change": 1.75,
+      "changePercent": 7.78,
+      "vwap": 23.81,
+      "label": "July 01, 24",
+      "changeOverTime": 0.0778
+    },
+    {
+      "date": "2024-06-28",
+      "open": 22.1,
+      "high": 23.73,
+      "low": 21.75,
+      "close": 22.5,
+      "adjClose": 22.5,
+      "volume": 181172,
+      "unadjustedVolume": 181172,
+      "change": 0.4,
+      "changePercent": 1.81,
+      "vwap": 22.52,
+      "label": "June 28, 24",
+      "changeOverTime": 0.0181
+    },
+    {
+      "date": "2024-06-27",
+      "open": 22.5,
+      "high": 22.9,
+      "low": 21.74,
+      "close": 21.75,
+      "adjClose": 21.75,
+      "volume": 540064,
+      "unadjustedVolume": 540064,
+      "change": -0.75,
+      "changePercent": -3.33,
+      "vwap": 22.2225,
+      "label": "June 27, 24",
+      "changeOverTime": -0.0333
+    },
+    {
+      "date": "2024-06-26",
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0.00001,
+      "adjClose": 0.00001,
+      "volume": 0,
+      "unadjustedVolume": 0,
+      "change": 0.00001,
+      "changePercent": 0,
+      "vwap": 0.000003333333,
+      "label": "June 26, 24",
+      "changeOverTime": 0
+    }
+  ]
+}

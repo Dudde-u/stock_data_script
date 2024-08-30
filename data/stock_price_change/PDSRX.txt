@@ -1,0 +1,20 @@
+{
+  "symbol": "PDSRX",
+  "historical": [
+    {
+      "date": "2022-07-29",
+      "open": 27.07,
+      "high": 27.07,
+      "low": 27.07,
+      "close": 27.07,
+      "adjClose": 27.07,
+      "volume": 0,
+      "unadjustedVolume": 0,
+      "change": 0,
+      "changePercent": 0,
+      "vwap": 0,
+      "label": "July 29, 22",
+      "changeOverTime": 0
+    }
+  ]
+}

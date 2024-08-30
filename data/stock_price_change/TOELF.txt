@@ -1,0 +1,20 @@
+{
+  "symbol": "TOELF",
+  "historical": [
+    {
+      "date": "2022-07-29",
+      "open": 344.15,
+      "high": 346.34,
+      "low": 340.86,
+      "close": 346.34,
+      "adjClose": 346.34,
+      "volume": 300,
+      "unadjustedVolume": 300,
+      "change": 2.19,
+      "changePercent": 0.636,
+      "vwap": 344.51333,
+      "label": "July 29, 22",
+      "changeOverTime": 0.00636
+    }
+  ]
+}

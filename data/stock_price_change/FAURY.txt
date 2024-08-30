@@ -1,0 +1,65 @@
+{
+  "symbol": "FAURY",
+  "historical": [
+    {
+      "date": "2023-02-08",
+      "open": 5,
+      "high": 5,
+      "low": 5,
+      "close": 5,
+      "adjClose": 5,
+      "volume": 325,
+      "unadjustedVolume": 325,
+      "change": 0,
+      "changePercent": 0,
+      "vwap": 5,
+      "label": "February 08, 23",
+      "changeOverTime": 0
+    },
+    {
+      "date": "2022-08-09",
+      "open": 4.2,
+      "high": 4.2,
+      "low": 4.19,
+      "close": 4.19,
+      "adjClose": 4.19,
+      "volume": 4000,
+      "unadjustedVolume": 4000,
+      "change": -0.01,
+      "changePercent": -0.2381,
+      "vwap": 4.19,
+      "label": "August 09, 22",
+      "changeOverTime": -0.002381
+    },
+    {
+      "date": "2022-08-05",
+      "open": 4.15,
+      "high": 4.15,
+      "low": 4.15,
+      "close": 4.15,
+      "adjClose": 4.15,
+      "volume": 1152,
+      "unadjustedVolume": 1152,
+      "change": 0,
+      "changePercent": 0,
+      "vwap": 4.15,
+      "label": "August 05, 22",
+      "changeOverTime": 0
+    },
+    {
+      "date": "2022-07-25",
+      "open": 4.45,
+      "high": 4.45,
+      "low": 4.45,
+      "close": 4.45,
+      "adjClose": 4.45,
+      "volume": 127,
+      "unadjustedVolume": 127,
+      "change": 0,
+      "changePercent": 0,
+      "vwap": 4.45,
+      "label": "July 25, 22",
+      "changeOverTime": 0
+    }
+  ]
+}

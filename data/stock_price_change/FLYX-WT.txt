@@ -1,0 +1,20 @@
+{
+  "symbol": "FLYX-WT",
+  "historical": [
+    {
+      "date": "2024-06-26",
+      "open": 0.55,
+      "high": 0.555,
+      "low": 0.55,
+      "close": 0.555,
+      "adjClose": 0.555,
+      "volume": 0,
+      "unadjustedVolume": 0,
+      "change": 0.005,
+      "changePercent": 0.90909,
+      "vwap": 0.55333,
+      "label": "June 26, 24",
+      "changeOverTime": 0.0090909
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "LARAX",
+  "historical": [
+    {
+      "date": "2022-07-29",
+      "open": 9.2,
+      "high": 9.2,
+      "low": 9.2,
+      "close": 9.2,
+      "adjClose": 9.1409,
+      "volume": 0,
+      "unadjustedVolume": 0,
+      "change": -0.0591,
+      "changePercent": -0.642,
+      "vwap": 0,
+      "label": "July 29, 22",
+      "changeOverTime": -0.00642
+    }
+  ]
+}

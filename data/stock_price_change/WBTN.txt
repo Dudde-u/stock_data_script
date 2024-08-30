@@ -1,0 +1,65 @@
+{
+  "symbol": "WBTN",
+  "historical": [
+    {
+      "date": "2024-07-02",
+      "open": 20.74,
+      "high": 21.48,
+      "low": 19.99,
+      "close": 20.07,
+      "adjClose": 20.07,
+      "volume": 1443922,
+      "unadjustedVolume": 1443635,
+      "change": -0.67,
+      "changePercent": -3.23,
+      "vwap": 20.46,
+      "label": "July 02, 24",
+      "changeOverTime": -0.0323
+    },
+    {
+      "date": "2024-07-01",
+      "open": 22.5,
+      "high": 22.99,
+      "low": 20.5,
+      "close": 21.58,
+      "adjClose": 21.58,
+      "volume": 1320639,
+      "unadjustedVolume": 1470600,
+      "change": -0.92,
+      "changePercent": -4.09,
+      "vwap": 21.31,
+      "label": "July 01, 24",
+      "changeOverTime": -0.0409
+    },
+    {
+      "date": "2024-06-28",
+      "open": 24.93,
+      "high": 25.66,
+      "low": 22.5,
+      "close": 22.83,
+      "adjClose": 22.83,
+      "volume": 2697940,
+      "unadjustedVolume": 2697900,
+      "change": -2.1,
+      "changePercent": -8.42,
+      "vwap": 23.99,
+      "label": "June 28, 24",
+      "changeOverTime": -0.0842
+    },
+    {
+      "date": "2024-06-27",
+      "open": 21.3,
+      "high": 24,
+      "low": 21.3,
+      "close": 23,
+      "adjClose": 23,
+      "volume": 6421313,
+      "unadjustedVolume": 6421300,
+      "change": 1.7,
+      "changePercent": 7.98,
+      "vwap": 22.34,
+      "label": "June 27, 24",
+      "changeOverTime": 0.0798
+    }
+  ]
+}

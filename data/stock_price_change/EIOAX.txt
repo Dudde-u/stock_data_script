@@ -1,0 +1,20 @@
+{
+  "symbol": "EIOAX",
+  "historical": [
+    {
+      "date": "2022-07-29",
+      "open": 8.66,
+      "high": 8.66,
+      "low": 8.66,
+      "close": 8.66,
+      "adjClose": 8.66,
+      "volume": 0,
+      "unadjustedVolume": 0,
+      "change": 0,
+      "changePercent": 0,
+      "vwap": 0,
+      "label": "July 29, 22",
+      "changeOverTime": 0
+    }
+  ]
+}

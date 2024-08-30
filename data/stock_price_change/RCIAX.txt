@@ -1,0 +1,20 @@
+{
+  "symbol": "RCIAX",
+  "historical": [
+    {
+      "date": "2022-07-29",
+      "open": 10.49,
+      "high": 10.49,
+      "low": 10.49,
+      "close": 10.49,
+      "adjClose": 10.49,
+      "volume": 0,
+      "unadjustedVolume": 0,
+      "change": 0,
+      "changePercent": 0,
+      "vwap": 0,
+      "label": "July 29, 22",
+      "changeOverTime": 0
+    }
+  ]
+}

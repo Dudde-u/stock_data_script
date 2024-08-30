@@ -1,0 +1,35 @@
+{
+  "symbol": "EHGO",
+  "historical": [
+    {
+      "date": "2024-07-02",
+      "open": 4,
+      "high": 4.4,
+      "low": 2.6,
+      "close": 3.26,
+      "adjClose": 3.26,
+      "volume": 844657,
+      "unadjustedVolume": 841060,
+      "change": -0.74,
+      "changePercent": -18.5,
+      "vwap": 3.51,
+      "label": "July 02, 24",
+      "changeOverTime": -0.185
+    },
+    {
+      "date": "2024-07-01",
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0.00001,
+      "adjClose": 0.00001,
+      "volume": 0,
+      "unadjustedVolume": 0,
+      "change": 0.00001,
+      "changePercent": 0,
+      "vwap": 0.000003333333,
+      "label": "July 01, 24",
+      "changeOverTime": 0
+    }
+  ]
+}

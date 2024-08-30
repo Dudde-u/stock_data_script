@@ -1,0 +1,35 @@
+{
+  "symbol": "ABVE",
+  "historical": [
+    {
+      "date": "2024-07-02",
+      "open": 4.07,
+      "high": 4.07,
+      "low": 3.16,
+      "close": 3.73,
+      "adjClose": 3.73,
+      "volume": 205848,
+      "unadjustedVolume": 205848,
+      "change": -0.34,
+      "changePercent": -8.35,
+      "vwap": 3.75,
+      "label": "July 02, 24",
+      "changeOverTime": -0.0835
+    },
+    {
+      "date": "2024-07-01",
+      "open": 6.45,
+      "high": 7,
+      "low": 4.1007,
+      "close": 4.72,
+      "adjClose": 4.72,
+      "volume": 284995,
+      "unadjustedVolume": 264273,
+      "change": -1.73,
+      "changePercent": -26.82,
+      "vwap": 4.83,
+      "label": "July 01, 24",
+      "changeOverTime": -0.2682
+    }
+  ]
+}

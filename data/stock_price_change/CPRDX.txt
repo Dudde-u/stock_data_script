@@ -1,0 +1,20 @@
+{
+  "symbol": "CPRDX",
+  "historical": [
+    {
+      "date": "2022-07-29",
+      "open": 12.68,
+      "high": 12.68,
+      "low": 12.68,
+      "close": 12.68,
+      "adjClose": 12.68,
+      "volume": 0,
+      "unadjustedVolume": 0,
+      "change": 0,
+      "changePercent": 0,
+      "vwap": 0,
+      "label": "July 29, 22",
+      "changeOverTime": 0
+    }
+  ]
+}

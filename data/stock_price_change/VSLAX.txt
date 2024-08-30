@@ -1,0 +1,20 @@
+{
+  "symbol": "VSLAX",
+  "historical": [
+    {
+      "date": "2022-07-29",
+      "open": 5.97,
+      "high": 5.97,
+      "low": 5.97,
+      "close": 5.97,
+      "adjClose": 5.939,
+      "volume": 0,
+      "unadjustedVolume": 0,
+      "change": -0.031,
+      "changePercent": -0.519,
+      "vwap": 0,
+      "label": "July 29, 22",
+      "changeOverTime": -0.00519
+    }
+  ]
+}

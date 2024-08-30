@@ -1,0 +1,20 @@
+{
+  "symbol": "JJPFF",
+  "historical": [
+    {
+      "date": "2022-07-29",
+      "open": 71.2859,
+      "high": 71.2859,
+      "low": 71.2859,
+      "close": 71.2859,
+      "adjClose": 71.2859,
+      "volume": 0,
+      "unadjustedVolume": 0,
+      "change": 0,
+      "changePercent": 0,
+      "vwap": 0,
+      "label": "July 29, 22",
+      "changeOverTime": 0
+    }
+  ]
+}

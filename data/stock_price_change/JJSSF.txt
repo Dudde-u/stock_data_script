@@ -1,0 +1,20 @@
+{
+  "symbol": "JJSSF",
+  "historical": [
+    {
+      "date": "2022-07-29",
+      "open": 36.04,
+      "high": 36.04,
+      "low": 36.04,
+      "close": 36.04,
+      "adjClose": 36.04,
+      "volume": 0,
+      "unadjustedVolume": 0,
+      "change": 0,
+      "changePercent": 0,
+      "vwap": 0,
+      "label": "July 29, 22",
+      "changeOverTime": 0
+    }
+  ]
+}

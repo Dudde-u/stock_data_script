@@ -1,0 +1,20 @@
+{
+  "symbol": "BGFDX",
+  "historical": [
+    {
+      "date": "2022-07-29",
+      "open": 21.7,
+      "high": 21.7,
+      "low": 21.7,
+      "close": 21.7,
+      "adjClose": 21.7,
+      "volume": 0,
+      "unadjustedVolume": 0,
+      "change": 0,
+      "changePercent": 0,
+      "vwap": 0,
+      "label": "July 29, 22",
+      "changeOverTime": 0
+    }
+  ]
+}

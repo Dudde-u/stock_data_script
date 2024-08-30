@@ -1,0 +1,20 @@
+{
+  "symbol": "TRLC",
+  "historical": [
+    {
+      "date": "2023-11-14",
+      "open": 3.77,
+      "high": 3.77,
+      "low": 3.77,
+      "close": 3.77,
+      "adjClose": 3.77,
+      "volume": 4793,
+      "unadjustedVolume": 4793,
+      "change": 0,
+      "changePercent": 0,
+      "vwap": 3.77,
+      "label": "November 14, 23",
+      "changeOverTime": 0
+    }
+  ]
+}

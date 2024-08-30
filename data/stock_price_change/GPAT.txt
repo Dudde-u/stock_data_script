@@ -1,0 +1,35 @@
+{
+  "symbol": "GPAT",
+  "historical": [
+    {
+      "date": "2024-07-02",
+      "open": 9.98,
+      "high": 10,
+      "low": 9.98,
+      "close": 9.99,
+      "adjClose": 9.99,
+      "volume": 785658,
+      "unadjustedVolume": 785658,
+      "change": 0.01,
+      "changePercent": 0.1002,
+      "vwap": 9.98,
+      "label": "July 02, 24",
+      "changeOverTime": 0.001002
+    },
+    {
+      "date": "2024-07-01",
+      "open": 9.99,
+      "high": 9.99,
+      "low": 9.98,
+      "close": 9.99,
+      "adjClose": 9.99,
+      "volume": 83719,
+      "unadjustedVolume": 83719,
+      "change": 0,
+      "changePercent": 0,
+      "vwap": 9.98,
+      "label": "July 01, 24",
+      "changeOverTime": 0
+    }
+  ]
+}

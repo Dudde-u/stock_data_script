@@ -1,0 +1,20 @@
+{
+  "symbol": "KMCM",
+  "historical": [
+    {
+      "date": "2024-04-24",
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0.00001,
+      "adjClose": 0.00001,
+      "volume": 0,
+      "unadjustedVolume": 0,
+      "change": 0.00001,
+      "changePercent": 0,
+      "vwap": 0.000003333333,
+      "label": "April 24, 24",
+      "changeOverTime": 0
+    }
+  ]
+}

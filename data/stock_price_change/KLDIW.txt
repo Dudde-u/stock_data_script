@@ -1,0 +1,20 @@
+{
+  "symbol": "KLDIW",
+  "historical": [
+    {
+      "date": "2022-07-29",
+      "open": 0.12,
+      "high": 0.15,
+      "low": 0.12,
+      "close": 0.15,
+      "adjClose": 0.15,
+      "volume": 6000,
+      "unadjustedVolume": 6000,
+      "change": 0.03,
+      "changePercent": 25,
+      "vwap": 0.14,
+      "label": "July 29, 22",
+      "changeOverTime": 0.25
+    }
+  ]
+}
