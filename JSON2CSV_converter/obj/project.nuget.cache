@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q4qkSvhs7LQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\urtan\\OneDrive\\Desktop\\Prog\\Api_data_getter\\JSON2CSV_converter\\JSON2CSV_converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\urtan\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\urtan\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

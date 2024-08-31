@@ -63,6 +63,7 @@ namespace Api_data_getter
             return httpClient;
         }
     }
+    
     public class Stock_price_change : IRequestProvider
     {
         public string url { get { return "https://financialmodelingprep.com/api/v3/historical-price-full/" + ticker + "?apikey=" + apikey; } }
@@ -77,6 +78,7 @@ namespace Api_data_getter
         }
     
     }
+
     public class Core_metrics : IRequestProvider    
     {
         public string url { get { return "https://financialmodelingprep.com/api/v3/key-metrics-ttm/" + ticker + "?apikey=" + apikey; } }

@@ -1,0 +1,15 @@
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\JSON2CSV_converter\bin\Debug\net8.0\JSON2CSV_converter.exe
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\JSON2CSV_converter\bin\Debug\net8.0\JSON2CSV_converter.deps.json
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\JSON2CSV_converter\bin\Debug\net8.0\JSON2CSV_converter.runtimeconfig.json
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\JSON2CSV_converter\bin\Debug\net8.0\JSON2CSV_converter.dll
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\JSON2CSV_converter\bin\Debug\net8.0\JSON2CSV_converter.pdb
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\JSON2CSV_converter\obj\Debug\net8.0\JSON2CSV_converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\JSON2CSV_converter\obj\Debug\net8.0\JSON2CSV_converter.AssemblyInfoInputs.cache
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\JSON2CSV_converter\obj\Debug\net8.0\JSON2CSV_converter.AssemblyInfo.cs
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\JSON2CSV_converter\obj\Debug\net8.0\JSON2CSV_converter.csproj.CoreCompileInputs.cache
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\JSON2CSV_converter\obj\Debug\net8.0\JSON2CSV_converter.sourcelink.json
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\JSON2CSV_converter\obj\Debug\net8.0\JSON2CSV_converter.dll
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\JSON2CSV_converter\obj\Debug\net8.0\refint\JSON2CSV_converter.dll
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\JSON2CSV_converter\obj\Debug\net8.0\JSON2CSV_converter.pdb
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\JSON2CSV_converter\obj\Debug\net8.0\JSON2CSV_converter.genruntimeconfig.cache
+C:\Users\urtan\OneDrive\Desktop\Prog\Api_data_getter\JSON2CSV_converter\obj\Debug\net8.0\ref\JSON2CSV_converter.dll
