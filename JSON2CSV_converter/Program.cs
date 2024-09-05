@@ -29,25 +29,45 @@ for (int i = 0; i < allTickers.Length; i++)
     }
 }
 Console.WriteLine(tickersWithData.Count);
+Console.WriteLine("Do you want to write to disk?");
+string answer =Console.ReadLine();
+if(answer =="y")
+{
+string writeText="";
+
+for(int i=0;i<TickersWithData.Count-1;i++)
+{
+writeText+=TickersWithData[i]+",";
+}
+writeText+=TickersWithData[TickersWithData.Count-1];
+
+File.WriteAllText("../../../../data/CompleteDataTickers.txt,writeText); 
+
+Console.WriteLine("Press key to continue");
 Console.ReadKey();
 
-//List<StockPriceChange> stockPriceChanges = new List<StockPriceChange>();
-//for (int i = 0; i < tickersWithData.Count; i++)
-//{
-//    try
-//    {
-//        string temp = File.ReadAllText(StockPriceChangePath + "/" + tickersWithData[i] + ".txt");
-//        StockPriceChange stockPriceChange = JsonSerializer.Deserialize<StockPriceChange>(temp);
-//        Console.WriteLine(stockPriceChange.symbol);
-        
-//    }
-//    catch 
-//    {
-//        Console.WriteLine("There was an issue, press key to contiue. Issue ticker" + tickersWithData[i]);
-//       Console.WriteLine("Type StockPriceChange");
-//    }
 
-//}
+
+List<StockPriceChange> stockPriceChangeList = new List<StockPriceChange>();
+List<CoreMetrics> coreMetricsList = new List<CoreMetrics>();
+List<FinancialStatement> financialStatementList = new List<FinancialStatement>();
+for (int i = 0; i < tickersWithData.Count; i++)
+{
+    try
+    {
+        string temp = File.ReadAllText(StockPriceChangePath + "/" + tickersWithData[i] + ".txt");
+        StockPriceChange stockPriceChange = JsonSerializer.Deserialize<StockPriceChange>(temp);
+        stockPriceChanges.Add(stockPriceChange);
+        Console.WriteLine(stockPriceChange.symbol);
+      
+    }
+    catch 
+    {
+        Console.WriteLine("There was an issue, press key to contiue. Issue ticker" + tickersWithData[i]);
+       Console.WriteLine("Type StockPriceChange");
+    }
+
+}
 for (int i = 0; i < tickersWithData.Count; i++)
 {
     try
@@ -60,6 +80,8 @@ for (int i = 0; i < tickersWithData.Count; i++)
 
              CoreMetrics coreMetrics = JsonSerializer.Deserialize<CoreMetrics>(temp);
         Console.WriteLine(coreMetrics.symbol);
+        coreMetricsList.Add(coreMetrics);
+
     }
     catch
     {
@@ -74,6 +96,7 @@ for (int i = 0; i < tickersWithData.Count; i++)
         string temp = File.ReadAllText(financialStatementPath + "/" + tickersWithData[i] + ".txt");
         FinancialStatement financialStatement = JsonSerializer.Deserialize<FinancialStatement>(temp);
         Console.WriteLine(financialStatement.symbol);
+        financialStatementList.Add(financialStatement);
     }
     catch
     {
@@ -81,7 +104,52 @@ for (int i = 0; i < tickersWithData.Count; i++)
        Console.WriteLine("Type FinancialStatement");
     }
 }
+PropertyInfo[] infoCM =CoreMetrics.GetProperties();
+PropertyInfo[] infoFM =FinancialStatement.GetProperties();
+PropertyInfo[] infoSPC = StockPriceChange.Historical.GetProperties();
+
+string csvString = "date,year,";
+List<string> ignoredProperties = new List<string>();
+ignoredProperties.Add("date");
+ignoredProperites.Add("period");
+ignoredProperties.Add("symbol");
+ignoredProperties.Add("calendarYear");
+
+string[] years = {"2023","2022","2021","2020"};
+
+AddHeaders(infoCM,csvString); //dumb but works
+AddHeaders(infoFM,csvString);
+AddHeaders(InfoSPC,csvString);
+csvString[csvString.Length-1]=""; //maybe char here
+csvString+="\n";
+
+//all lists of the deserealized data can be indexed and will return data for the same ticker
+for(int i =0; i<TickersWithData;i++)
+{
+Object coreMetricsobj = coreMetricsList[i];
+Object 
+csvString+=
+
+}
+
+
+
+}
+
+
+
+
+
 Console.ReadKey();
+public void AddHeaders(PropertyInfo[] info,ref string csvString)
+{
+for(int i =0; i<info.Length;i++)
+{
+csvString+=info.Name+",";
+
+}
+}
+
 public class CoreMetrics
 {
     public string symbol { get; set; }
@@ -148,8 +216,8 @@ public class CoreMetrics
 }
 public class FinancialStatement
 {
- 
-        public string date { get; set; }
+ //ignore in ML model
+    public string date { get; set; }
     public string symbol { get; set; }
     public string period { get; set; }
     public string documenttype { get; set; }
@@ -167,11 +235,13 @@ public class FinancialStatement
     public string entityincorporationstatecountrycode { get; set; }
     public string entityaddressaddressline1 { get; set; }
     public string entityaddressaddressline2 { get; set; }
+
     public string entityaddresscityortown { get; set; }
     public string entityaddressstateorprovince { get; set; }
     public int entityaddresspostalzipcode { get; set; }
     public object cityareacode { get; set; }
-    public string localphonenumber { get; set; }
+    
+      
     public string security12btitle { get; set; }
     public string tradingsymbol { get; set; }
     public string securityexchangename { get; set; }
